@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601048984 source:d:\università\asd\codeblocks\provaalberibinari\main.cpp
+	<iostream>
+	"../../realizzazioni/alberibin/Bin_tree.h"
+	"../../realizzazioni/alberibin/Bin_treec.h"
+	"../../realizzazioni/alberibin/exceptions.h"
+
+1601054834 d:\università\asd\realizzazioni\alberibin\bin_tree.h
+	<iostream>
+
+1601043642 d:\università\asd\realizzazioni\alberibin\bin_treec.h
+	"Bin_tree.h"
+	"exceptions.h"
+
+1525417732 d:\università\asd\realizzazioni\alberibin\exceptions.h
+	<stdexcept>
+

@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1600442809 source:c:\users\gianl\onedrive\desktop\realizzazioni\pila\pilavt\infissa2postfissa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"pilavt.h"
+
+1600444186 c:\users\gianl\onedrive\desktop\realizzazioni\pila\pilavt\pilavt.h
+	<iostream>
+
+1600442743 source:c:\users\gianl\onedrive\desktop\realizzazioni\pila\pilavt\postfissa.cpp
+	<iostream>
+	<string>
+	<cstring>
+	"pilavt.h"
+
+1600443902 source:c:\users\gianl\onedrive\desktop\nuova cartella\solopilevt\main.cpp
+	<iostream>
+	"../../realizzazioni/pila/pilavt/pilavt.h"
+
+1600528845 source:d:\università\asd\codeblocks\solopilevt\main.cpp
+	<iostream>
+	"../../realizzazioni/pila/pilavt/pilavt.h"
+	"../../realizzazioni/pila/pilav/pilav.h"
+	"../../realizzazioni/pila/pilav/nodopv.h"
+	"pilapt.h"
+	"nodoppt.h"
+
+1600444419 d:\università\asd\realizzazioni\pila\pilavt\pilavt.h
+	<iostream>
+
+1600446235 d:\università\asd\realizzazioni\pila\pilav\pilav.h
+	"nodopv.h"
+	<iostream>
+	"pilav.h"
+
+1600445497 d:\università\asd\realizzazioni\pila\pilav\nodopv.h
+	<iostream>
+	"nodopv.h"
+
+1600532262 d:\università\asd\codeblocks\solopilevt\pilapt.h
+	<iostream>
+	"nodoppt.h"
+
+1600524463 d:\università\asd\codeblocks\solopilevt\nodoppt.h
+

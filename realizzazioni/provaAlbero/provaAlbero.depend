@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1600963271 source:d:\università\asd\codeblocks\provaalbero\main.cpp
+	<iostream>
+	"../../realizzazioni/alberi/TreeList.h"
+	"../../realizzazioni/alberi/treelink/TreeLink.h"
+
+1600959853 d:\università\asd\realizzazioni\alberi\treelist.h
+	"list_vector.h"
+	"Tree.h"
+	<iostream>
+
+1600703674 d:\università\asd\realizzazioni\alberi\list_vector.h
+	"linear_list.h"
+
+1525417732 d:\università\asd\realizzazioni\alberi\linear_list.h
+	<iostream>
+
+1600702951 d:\università\asd\realizzazioni\alberi\tree.h
+
+1600963096 d:\università\asd\realizzazioni\alberi\treelink\treelink.h
+	<iostream>
+

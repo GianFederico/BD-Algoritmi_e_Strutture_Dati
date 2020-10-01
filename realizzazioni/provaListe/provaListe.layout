@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="..\..\realizzazioni\liste\linked_list\single_linked_list.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="549" topLine="6" />
+		</Cursor>
+		<Folding>
+			<Collapse line="99" />
+			<Collapse line="106" />
+			<Collapse line="112" />
+			<Collapse line="118" />
+			<Collapse line="124" />
+			<Collapse line="134" />
+			<Collapse line="139" />
+			<Collapse line="165" />
+			<Collapse line="177" />
+			<Collapse line="219" />
+			<Collapse line="255" />
+			<Collapse line="260" />
+			<Collapse line="265" />
+			<Collapse line="271" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="371" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="161" />
+		</Folding>
+	</File>
+	<File name="..\..\realizzazioni\liste\list_vector\list_vector.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="51" />
+			<Collapse line="58" />
+			<Collapse line="68" />
+			<Collapse line="78" />
+			<Collapse line="84" />
+			<Collapse line="90" />
+			<Collapse line="95" />
+			<Collapse line="100" />
+			<Collapse line="108" />
+			<Collapse line="116" />
+			<Collapse line="130" />
+			<Collapse line="136" />
+			<Collapse line="150" />
+			<Collapse line="160" />
+			<Collapse line="175" />
+			<Collapse line="180" />
+			<Collapse line="185" />
+			<Collapse line="193" />
+			<Collapse line="205" />
+			<Collapse line="224" />
+			<Collapse line="238" />
+		</Folding>
+	</File>
+	<File name="..\..\realizzazioni\liste\linked_list\linked_list.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="609" topLine="66" />
+		</Cursor>
+		<Folding>
+			<Collapse line="105" />
+			<Collapse line="113" />
+			<Collapse line="119" />
+			<Collapse line="125" />
+			<Collapse line="131" />
+			<Collapse line="138" />
+			<Collapse line="143" />
+			<Collapse line="149" />
+			<Collapse line="155" />
+			<Collapse line="161" />
+			<Collapse line="167" />
+			<Collapse line="180" />
+			<Collapse line="191" />
+			<Collapse line="213" />
+			<Collapse line="229" />
+			<Collapse line="234" />
+			<Collapse line="239" />
+			<Collapse line="244" />
+			<Collapse line="249" />
+			<Collapse line="269" />
+		</Folding>
+	</File>
+	<File name="..\..\realizzazioni\liste\linked_list\linear_list.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

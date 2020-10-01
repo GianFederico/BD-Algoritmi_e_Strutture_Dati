@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1539686656 source:d:\università\asd\realizzazioni\coda\codealg\postfissaeval.cpp
+	<cstring>
+	<iostream>
+	"codavt.h"
+	"pilavt.h"
+
+1540214784 d:\università\asd\realizzazioni\coda\codealg\codavt.h
+
+1539084240 d:\università\asd\realizzazioni\coda\codealg\pilavt.h
+	<iostream>
+
+1540215016 source:d:\università\asd\realizzazioni\coda\codevt\testcoda.cpp
+	"codavt.h"
+	<iostream>
+
+1600532640 d:\università\asd\realizzazioni\coda\codevt\codavt.h
+
+1600612081 source:d:\università\asd\codeblocks\provacode\main.cpp
+	<iostream>
+	"../../realizzazioni/coda/codevt/codavt.h"
+	"codept.h"
+
+1600535859 d:\università\asd\codeblocks\provacode\nodocpt.h
+	<iostream>
+
+1600610459 d:\università\asd\codeblocks\provacode\codept.h
+	<iostream>
+	"nodocpt.h"
+

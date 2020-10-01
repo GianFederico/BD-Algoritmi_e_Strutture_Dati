@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1541245422 source:d:\università\asd\realizzazioni\codeprior\codap.cpp
+	"codap.h"
+	<iostream>
+
+1601058187 d:\università\asd\realizzazioni\codeprior\codap.h
+	<iostream>
+
+1601057595 source:d:\università\asd\codeblocks\provaprioricode\main.cpp
+	"../../realizzazioni/codeprior/codap.h"
+	<iostream>
+

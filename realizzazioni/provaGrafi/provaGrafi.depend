@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1601142740 source:d:\università\asd\codeblocks\provagrafi\main.cpp
+	<iostream>
+	"../../realizzazioni/grafi/GrafoMat.h"
+	<string>
+
+1601136921 d:\università\asd\realizzazioni\grafi\grafolist.h
+	"Grafo.h"
+	"list_vector.h"
+
+1541247592 d:\università\asd\realizzazioni\grafi\grafo.h
+	"list_vector.h"
+
+1601117014 d:\università\asd\realizzazioni\grafi\list_vector.h
+	"linear_list.h"
+
+1601114502 d:\università\asd\realizzazioni\grafi\linear_list.h
+	<iostream>
+
+1601142808 d:\università\asd\realizzazioni\grafi\grafomat.h
+	"Grafo.h"
+

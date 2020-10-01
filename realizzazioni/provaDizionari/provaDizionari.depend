@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600793966 source:d:\università\asd\codeblocks\provadizionari\main.cpp
+	<iostream>
+	"../../realizzazioni/dizionari/hash_table.h"
+
+1600711265 d:\università\asd\realizzazioni\dizionari\hash_table.h
+	"dictionary.h"
+	<string>
+	<iostream>
+
+1600615180 d:\università\asd\realizzazioni\dizionari\dictionary.h
+
